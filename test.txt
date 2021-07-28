@@ -6,4 +6,8 @@ test5
 test6
 test7
 test8
+<<<<<<< HEAD
 test9
+=======
+test10
+>>>>>>> b1
